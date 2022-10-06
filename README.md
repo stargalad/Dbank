@@ -7,13 +7,15 @@ install ubuntu on windows, not as a virtual machine but the "ubuntu for windows"
 1. Make sure dfx is running
 
 
-dfx start --clean
+cmd: dfx start --clean
 
 2. Deploy the project
-dfx deploy
+
+cmd: dfx deploy
 
 3. Start NPM
-npm start
+
+cmd: npm start
 
 
 
